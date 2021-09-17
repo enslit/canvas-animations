@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #232332;
+    overflow: hidden;
+}
+
+.canvas {
+    height: 100%;
+    width: 100%;
+}
